@@ -17,7 +17,7 @@ int main() {
 
 
     for (vector<int>::iterator it = vec.begin(); it != vec.end(); ++it) {
-        std::cout << *it << " ";
+        cout << *it << " ";
     }
     std::cout << std::endl;
 
