@@ -1,7 +1,10 @@
 #include <iostream>
 #include "11.1.mytime0.h"
+#include <array>
 
 int main(int argc, char const *argv[]) {
+	int elem = 0;
+	
     using std::cout;
     using std::endl;
     Time planning;
